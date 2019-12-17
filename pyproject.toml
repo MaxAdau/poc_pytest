@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "poc_pytest"
 version = "0.1.0"
-description = "POC for pytest library and poetry"
+description = "A basic poc for pytest, poetry and pyenv"
 authors = ["Emax <maxadau@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "3.7"
+python = "^3.8"
 
 [tool.poetry.dev-dependencies]
 
